@@ -1,0 +1,9 @@
+----------------
+## Snippy use for Big sequence data Allaigment ;
+https://github.com/tseemann/snippy
+##Install: 
+##ativate environment
+conda activate snippy
+##Install
+conda install -c bioconda snippy
+
